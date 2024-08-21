@@ -16,15 +16,16 @@ Welcome to the **Natural Disaster Prediction System** repository! This project f
 ├── notebooks/              # Jupyter notebooks for experimentation
 ├── web_app/                # Web application files (HTML, CSS, JS)
 └── README.md               # Project documentation
+```
 
-## 📊 **Technologies Used**
+## 📊 Technologies Used
 Python: Core programming language for data processing and model building.
 TensorFlow/PyTorch: Deep learning frameworks for building predictive models.
 Docker: Containerization for easy deployment.
 SQL: Database management for storing and retrieving data.
 HTML/CSS/JavaScript: Frontend development of the web interface.
 
-**🔧 Setup & Installation**
+## 🔧 Setup & Installation
 1. Clone the repository:
 git clone https://github.com/yourusername/natural-disaster-prediction.git
 cd natural-disaster-prediction
@@ -38,7 +39,7 @@ pip install -r requirements.txt
 cd web_app
 python app.py
 
-🌟 How to Use
+## 🌟 How to Use
 1. Upload Data: Provide historical data or real-time data feeds for prediction.
 2. Run Predictions: Execute the predictive model to forecast upcoming natural disasters.
 3. View Results: Analyze predictions through visualizations and reports.
@@ -73,6 +74,8 @@ Welcome to the **Natural Disaster Prediction System** repository! This project f
 ├── notebooks/              # Jupyter notebooks for experimentation
 ├── web_app/                # Web application files (HTML, CSS, JS)
 └── README.md               # Project documentation
+```
+
 📊 Technologies Used
 Python: Core programming language for data processing and model building.
 TensorFlow/PyTorch: Deep learning frameworks for building predictive models.
