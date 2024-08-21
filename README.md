@@ -19,11 +19,12 @@ Welcome to the **Natural Disaster Prediction System** repository! This project f
 ```
 
 ## 📊 Technologies Used
-Python: Core programming language for data processing and model building.
-TensorFlow/PyTorch: Deep learning frameworks for building predictive models.
-Docker: Containerization for easy deployment.
-SQL: Database management for storing and retrieving data.
-HTML/CSS/JavaScript: Frontend development of the web interface.
+Python: Core programming language for data processing and model building. <br>
+TensorFlow/PyTorch: Deep learning frameworks for building predictive models. <br>
+Docker: Containerization for easy deployment. <br>
+SQL: Database management for storing and retrieving data. <br>
+HTML/CSS/JavaScript: Frontend development of the web interface. <br>
+Jupyter Notebook is being used.
 
 ## 🔧 Setup & Installation
 1. Clone the repository:
